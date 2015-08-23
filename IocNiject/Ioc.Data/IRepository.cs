@@ -8,7 +8,7 @@ using Ioc.Core;
 
 namespace Ioc.Data
 {
-    public interface IRepository<T> where T:BaseEntity
+    public interface IRepository<T> where T:BaseEntity 
     {
         T GetByID(object id);
 
