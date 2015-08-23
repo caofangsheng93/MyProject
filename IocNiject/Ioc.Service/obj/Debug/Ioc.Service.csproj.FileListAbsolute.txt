@@ -9,3 +9,14 @@ D:\VS Spare Time\IocNiject\Ioc.Service\bin\Debug\Ioc.Data.dll
 D:\VS Spare Time\IocNiject\Ioc.Service\bin\Debug\EntityFramework.dll
 D:\VS Spare Time\IocNiject\Ioc.Service\bin\Debug\Ioc.Data.pdb
 D:\VS Spare Time\IocNiject\Ioc.Service\bin\Debug\EntityFramework.xml
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\bin\Debug\Ioc.Service.dll
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\bin\Debug\Ioc.Service.pdb
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\bin\Debug\Ioc.Core.dll
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\bin\Debug\Ioc.Data.dll
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\bin\Debug\EntityFramework.dll
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\bin\Debug\Ioc.Core.pdb
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\bin\Debug\Ioc.Data.pdb
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\bin\Debug\EntityFramework.xml
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\obj\Debug\Ioc.Service.csprojResolveAssemblyReference.cache
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\obj\Debug\Ioc.Service.dll
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Service\obj\Debug\Ioc.Service.pdb

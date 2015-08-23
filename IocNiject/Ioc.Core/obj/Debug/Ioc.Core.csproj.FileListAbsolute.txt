@@ -2,3 +2,8 @@ D:\VS Spare Time\IocNiject\Ioc.Core\bin\Debug\Ioc.Core.dll
 D:\VS Spare Time\IocNiject\Ioc.Core\bin\Debug\Ioc.Core.pdb
 D:\VS Spare Time\IocNiject\Ioc.Core\obj\Debug\Ioc.Core.dll
 D:\VS Spare Time\IocNiject\Ioc.Core\obj\Debug\Ioc.Core.pdb
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Core\bin\Debug\Ioc.Core.dll
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Core\bin\Debug\Ioc.Core.pdb
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Core\obj\Debug\Ioc.Core.csprojResolveAssemblyReference.cache
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Core\obj\Debug\Ioc.Core.dll
+D:\VS Spare Time\GitHubRepository\MyProject\IocNiject\Ioc.Core\obj\Debug\Ioc.Core.pdb
